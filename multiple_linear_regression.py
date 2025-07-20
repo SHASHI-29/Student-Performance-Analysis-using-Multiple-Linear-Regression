@@ -7,7 +7,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score, mean_absolute_error
 
 # Load and inspect data
-df = pd.read_csv("D:\Documents\CBP's\Batch_6(22071A1073,81,B4,B5)\Student_Performance.csv")
+df = pd.read_csv("https://github.com/SHASHI-29/Student-Performance-Analysis-using-Multiple-Linear-Regression/blob/main/Student_Performance.csv")
 df.head()
 df.info()
 
