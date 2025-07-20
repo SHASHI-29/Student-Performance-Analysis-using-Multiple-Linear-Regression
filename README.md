@@ -17,10 +17,9 @@ The dataset is sourced from the repository:
 ## 📌 Features Used
 - Study Hours
 - Sleep Time
-- Tuition Classes
-- Attendance
+- Previous Scores
 - Extracurricular Activities
-- Number of Subjects
+- Sample Question Papers Practiced
 - Performance Index (Target)
 
 ## 📈 Workflow
