@@ -54,6 +54,8 @@ Shows how strongly each feature correlates with the target.
 
 - **R² Score**: _[Varies based on random split]_
 - **Mean Absolute Error**: _[Depends on data sample]_
+- <img src=""C:\Users\sheshi\Downloads\Figure_1.png"" width="300"/>
+
 
 ## 🚀 Future Improvements
 - Try **Polynomial Regression** or **Random Forest** for better accuracy.
