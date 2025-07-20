@@ -54,7 +54,7 @@ Shows how strongly each feature correlates with the target.
 
 - **R² Score**: _[Varies based on random split]_
 - **Mean Absolute Error**: _[Depends on data sample]_
-- <img src="C:\Users\sheshi\Downloads\Figure_1.png" width="300"/>
+- <img src="https://github.com/user-attachments/assets/048d42c8-cced-4a75-9436-60ca546ccee5" width="300"/>
 
 
 ## 🚀 Future Improvements
